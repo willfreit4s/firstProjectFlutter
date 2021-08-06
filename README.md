@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Contém tela de login, menu de hamburguér, sai da aplicação. App do meu primeiro contato com flutter, onde posso utilizar alguns conceitos
+Contém tela de login, menu de hambúrguer, sai da aplicação. App do meu primeiro contato com flutter, onde posso utilizar alguns conceitos
 
 ## Getting Started
 

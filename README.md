@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Contém tela de login, menu de hamburguér, sai da aplicação. App do meu primeiro contato com flutter, onde posso utilizar alguns conceitos
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
